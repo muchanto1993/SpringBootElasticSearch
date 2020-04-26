@@ -6,7 +6,7 @@ Source :
  * https://javadeveloperzone.com/spring-boot/spring-boot-elastic-search-example/
 
 # Tutorial
-1. Download Elastic Search From This Link https://www.elastic.co/downloads/elasticsearch
+1. Download Elastic Search From This Link "https://www.elastic.co/downloads/elasticsearch"
 2. unzip Elasticsearch
 3. Run bin/elasticsearch (or bin\elasticsearch.bat on Windows)
 4. Running The Solution 
@@ -31,5 +31,5 @@ If you success running elastic search you can look the result like this
   "tagline" : "You Know, for Search"
 }
 
-After that you can import file Spring Boot Elastic Search Example.postman_collection.json to Postman
-and you can try access http://localhost:8082/save for inital data and http://localhost:8082/getAll for look the result
+After that you can import file "Spring Boot Elastic Search Example.postman_collection.json" to Postman
+and you can try access "http://localhost:8082/save" inital data and "http://localhost:8082/getAll" for look the result
